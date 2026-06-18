@@ -1,0 +1,152 @@
+{
+  "Kitchen": {
+    "title": "Haweli Restaurant — Küchenanzeige",
+    "live": "Live",
+    "newOrders": "Neue Bestellungen",
+    "cooking": "In Zubereitung",
+    "ready": "Fertig",
+    "servedToday": "Heute serviert",
+    "soundOn": "Ton an",
+    "soundOff": "Ton aus",
+    "loading": "Küche wird geladen...",
+    "startCooking": "Kochen starten",
+    "markReady": "Fertig melden",
+    "served": "Serviert",
+    "noOrders": "Keine neuen Bestellungen",
+    "nothingCooking": "Nichts in Zubereitung",
+    "noReady": "Keine Bestellungen fertig",
+    "readyToServe": "Bereit zum Servieren",
+    "waiterNotified": "Kunde benachrichtigt",
+    "table": "Tisch"
+  },
+  "Dashboard": {
+    "title": "Manager Dashboard",
+    "revenue": "Heutiger Umsatz",
+    "totalOrders": "Bestellungen gesamt",
+    "activeOrders": "Aktive Bestellungen",
+    "topDishes": "Top-Gerichte",
+    "tables": "Tische",
+    "loading": "Dashboard wird geladen..."
+  },
+  "Chat": {
+    "title": "Chat mit Haweli",
+    "placeholder": "Nachricht eingeben...",
+    "send": "Senden",
+    "welcome": "Hallo! Ich bin Haweli, Ihre KI-Kellnerin. Was darf ich Ihnen bringen?",
+    "aiWaiterStatus": "AI Waiter • Online",
+    "newConversation": "Neue Unterhaltung",
+    "today": "Heute",
+    "namaste": "Namaste!",
+    "confirmSelection": "Auswahl bestätigen",
+    "orderInvoice": "Bestellrechnung",
+    "total": "Gesamt",
+    "orderConfirmed": "Bestellung bestätigt! Ihr Essen wird zubereitet 🍳",
+    "typeMessage": "Nachricht eingeben...",
+    "selectTableFirst": "Wählen Sie zuerst einen Tisch oben...",
+    "seats": "Plätze",
+    "occupied": "Belegt",
+    "tableLabel": "Tisch",
+    "welcomeMessage": "Willkommen bei Haweli! 🍽️ Hier sind die verfügbaren Tische. Bitte wählen Sie einen aus, um zu beginnen:"
+  },
+  "Header": {
+    "menu": "Speisekarte",
+    "reservations": "Reservierungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "orderNow": "Jetzt bestellen"
+  },
+  "Hero": {
+    "welcome": "Willkommen bei Haweli Indian Cuisine",
+    "title": "Haweli Indian Cuisine",
+    "subtitle": "Spezialitäten der indischen Küche & ausgewählte Gerichte",
+    "viewMenu": "Speisekarte ansehen",
+    "reserveTable": "Tisch reservieren"
+  },
+  "About": {
+    "tag": "Steaks and Indian Cuisine",
+    "p1": "Haweli ist ein repräsentativer Platz der Zusammenkunft, um sich auszutauschen, Spaß zu haben und gemeinsame Zeit zu verbringen. Unser Bestreben ist es, dass Sie sich bei uns wohl und zufrieden fühlen.",
+    "p2": "Wir achten stets auf Herzlichkeit und freundlichen Service in einem Ambiente, das mit warmen Farben und gemütlicher Atmosphäre gestaltet ist. Erleben Sie eine kulinarische Reise durch Indien.",
+    "stat1Value": "100%",
+    "stat1Label": "Authentische Gewürze",
+    "stat2Value": "Fresh",
+    "stat2Label": "Tägliche Zubereitung"
+  },
+  "Menu": {
+    "tag": "Kulinarische Highlights",
+    "title": "Unsere Speisekarte",
+    "currysTitle": "Currys & Reisgerichte",
+    "vegTitle": "Vegetarisch & Vegan",
+    "spiceNote": "Selbstverständlich entscheiden Sie auch über die Schärfe Ihrer Speise.",
+    "viewFull": "Gesamte Speisekarte ansehen →",
+    "butterChickenDesc": "Hähnchenbrustfilet in Butter-Tomaten-Sauce, inkl. Daal, Reis und Naan",
+    "lambBiryaniDesc": "Gebratener Reis mit Lammfleisch, Mandeln, Rosinen und Cashewkernen",
+    "chickenTikkaDesc": "Hähnchenbrustfilet mit Paprika und Zwiebeln, inkl. Daal und Naan",
+    "palakPaneerDesc": "Frischer Spinat mit hausgemachtem Käse, inkl. Daal und Naan",
+    "vegBiryaniDesc": "Gebratener Reis mit Gemüse, Mandeln, Rosinen und Cashewkernen",
+    "kadhiChawalDesc": "Kadhi mit Reis — ein traditionelles nordindisches Gericht"
+  },
+  "Services": {
+    "aiTitle": "AI Waiter — Bestellen per Chat",
+    "aiDesc": "Unser intelligenter Chatbot nimmt Ihre Bestellung auf — schnell, einfach und persönlich. Wählen Sie Ihren Tisch, browsen Sie die Karte und bestellen Sie direkt im Chat.",
+    "delivery": "Lieferservice",
+    "outdoor": "Außenbereich",
+    "events": "Events & Hochzeiten",
+    "wifi": "Gratis WLAN",
+    "traditional": "Traditionelle Zubereitung"
+  },
+  "Reservation": {
+    "title": "Reservieren Sie Ihren Tisch",
+    "desc": "Wir freuen uns, Sie bald bei uns begrüßen zu dürfen. Für größere Gruppen oder spezielle Wünsche kontaktieren Sie uns bitte direkt.",
+    "phoneLabel": "Telefonisch",
+    "addressLabel": "Adresse",
+    "address": "Ehestorfer Heuweg 89, 21149 Hamburg",
+    "nameLabel": "Ihr Name",
+    "namePlaceholder": "Max Mustermann",
+    "guestsLabel": "Gäste",
+    "emailLabel": "E-Mail Adresse",
+    "dateLabel": "Datum",
+    "timeLabel": "Uhrzeit",
+    "submit": "Reservierung anfragen",
+    "privacy": "Mit Absenden der Anfrage akzeptieren Sie unsere Datenschutzbestimmungen."
+  },
+  "Footer": {
+    "desc": "Authentische indische Küche und erstklassige Gerichte in Deutschland.",
+    "menu": "Speisekarte",
+    "dashboard": "Dashboard",
+    "about": "Über uns",
+    "reservations": "Reservierungen",
+    "newsletter": "Newsletter",
+    "emailPlaceholder": "Ihre Email",
+    "hours": "Mo–Sa: 11:00 – 22:00",
+    "rights": "© 2025 Haweli Indian Cuisine. Alle Rechte vorbehalten."
+  },
+  "Nav": {
+    "dashboard": "Dashboard",
+    "kitchen": "Küche",
+    "order": "Bestellen",
+    "qr": "QR-Codes",
+    "chat": "Chat"
+  },
+  "Order": {
+    "loading": "Tische werden geladen...",
+    "subtitle": "Scannen, Tisch wählen und bestellen!",
+    "selectTable": "Wählen Sie Ihren Tisch",
+    "noTables": "Alle Tische sind derzeit belegt",
+    "tryLater": "Bitte versuchen Sie es in wenigen Minuten erneut",
+    "table": "Tisch",
+    "seats": "Plätze",
+    "available": "Verfügbar",
+    "occupied": "Derzeit belegt",
+    "inUse": "Belegt",
+    "reserved": "Reserviert"
+  },
+  "Common": {
+    "language": "Sprache",
+    "currency": "Währung",
+    "veg": "Vegetarisch",
+    "nonVeg": "Nicht-Veg",
+    "available": "Verfügbar",
+    "occupied": "Besetzt",
+    "reserved": "Reserviert"
+  }
+}

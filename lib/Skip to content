@@ -1,0 +1,424 @@
+Skip to content
+[Docs](https://next-intl.dev/docs/getting-started)
+[LearnNew!](https://learn.next-intl.dev)
+[Examples](https://next-intl.dev/examples)
+[Blog](https://next-intl.dev/blog)
+[GitHubGitHub](https://github.com/amannn/next-intl)
+- Getting startedApp Router[Pages Router](https://next-intl.dev/docs/getting-started/pages-router)
+- [App Router](https://next-intl.dev/docs/getting-started/app-router)
+- [Pages Router](https://next-intl.dev/docs/getting-started/pages-router)
+- Usage guideTranslationsNumbersDates and timesListsDisplay namesRequest configurationuseExtracted[Next.js plugin](https://next-intl.dev/docs/usage/plugin)
+- [Translations](https://next-intl.dev/docs/usage/translations)
+- [Numbers](https://next-intl.dev/docs/usage/numbers)
+- [Dates and times](https://next-intl.dev/docs/usage/dates-times)
+- [Lists](https://next-intl.dev/docs/usage/lists)
+- [Display names](https://next-intl.dev/docs/usage/display-name)
+- [Request configuration](https://next-intl.dev/docs/usage/configuration)
+- [useExtracted](https://next-intl.dev/docs/usage/extraction)
+- [Next.js plugin](https://next-intl.dev/docs/usage/plugin)
+- RoutingSetupConfigurationProxy / middleware[Navigation](https://next-intl.dev/docs/routing/navigation)
+- [Setup](https://next-intl.dev/docs/routing/setup)
+- [Configuration](https://next-intl.dev/docs/routing/configuration)
+- [Proxy / middleware](https://next-intl.dev/docs/routing/middleware)
+- [Navigation](https://next-intl.dev/docs/routing/navigation)
+- EnvironmentsServer & Client ComponentsServer Actions, Metadata & Route HandlersError files (e.g. not-found)TestingCore library[Runtime requirements](https://next-intl.dev/docs/environments/runtime-requirements)
+- [Server & Client Components](https://next-intl.dev/docs/environments/server-client-components)
+- [Server Actions, Metadata & Route Handlers](https://next-intl.dev/docs/environments/actions-metadata-route-handlers)
+- [Error files (e.g. not-found)](https://next-intl.dev/docs/environments/error-files)
+- [Testing](https://next-intl.dev/docs/environments/testing)
+- [Core library](https://next-intl.dev/docs/environments/core-library)
+- [Runtime requirements](https://next-intl.dev/docs/environments/runtime-requirements)
+- Workflows & integrationsTypeScript augmentationLocalization management with CrowdinVSCode integrationStorybook[Validating messages](https://next-intl.dev/docs/workflows/messages)
+- [TypeScript augmentation](https://next-intl.dev/docs/workflows/typescript)
+- [Localization management with Crowdin](https://next-intl.dev/docs/workflows/localization-management)
+- [VSCode integration](https://next-intl.dev/docs/workflows/vscode-integration)
+- [Storybook](https://next-intl.dev/docs/workflows/storybook)
+- [Validating messages](https://next-intl.dev/docs/workflows/messages)
+- [Design principles](https://next-intl.dev/docs/design-principles)
+[Getting started](https://next-intl.dev/docs/getting-started)
+- [App Router](https://next-intl.dev/docs/getting-started/app-router)
+- [Pages Router](https://next-intl.dev/docs/getting-started/pages-router)
+[App Router](https://next-intl.dev/docs/getting-started/app-router)
+[Pages Router](https://next-intl.dev/docs/getting-started/pages-router)
+[Usage guide](https://next-intl.dev/docs/usage)
+- [Translations](https://next-intl.dev/docs/usage/translations)
+- [Numbers](https://next-intl.dev/docs/usage/numbers)
+- [Dates and times](https://next-intl.dev/docs/usage/dates-times)
+- [Lists](https://next-intl.dev/docs/usage/lists)
+- [Display names](https://next-intl.dev/docs/usage/display-name)
+- [Request configuration](https://next-intl.dev/docs/usage/configuration)
+- [useExtracted](https://next-intl.dev/docs/usage/extraction)
+- [Next.js plugin](https://next-intl.dev/docs/usage/plugin)
+[Translations](https://next-intl.dev/docs/usage/translations)
+[Numbers](https://next-intl.dev/docs/usage/numbers)
+[Dates and times](https://next-intl.dev/docs/usage/dates-times)
+[Lists](https://next-intl.dev/docs/usage/lists)
+[Display names](https://next-intl.dev/docs/usage/display-name)
+[Request configuration](https://next-intl.dev/docs/usage/configuration)
+[useExtracted](https://next-intl.dev/docs/usage/extraction)
+[Next.js plugin](https://next-intl.dev/docs/usage/plugin)
+[Routing](https://next-intl.dev/docs/routing)
+- [Setup](https://next-intl.dev/docs/routing/setup)
+- [Configuration](https://next-intl.dev/docs/routing/configuration)
+- [Proxy / middleware](https://next-intl.dev/docs/routing/middleware)
+
+- [Navigation](https://next-intl.dev/docs/routing/navigation)
+[Setup](https://next-intl.dev/docs/routing/setup)
+[Configuration](https://next-intl.dev/docs/routing/configuration)
+[Proxy / middleware](https://next-intl.dev/docs/routing/middleware)
+[Navigation](https://next-intl.dev/docs/routing/navigation)
+[Environments](https://next-intl.dev/docs/environments)
+- [Server & Client Components](https://next-intl.dev/docs/environments/server-client-components)
+- [Server Actions, Metadata & Route Handlers](https://next-intl.dev/docs/environments/actions-metadata-route-handlers)
+- [Error files (e.g. not-found)](https://next-intl.dev/docs/environments/error-files)
+- [Testing](https://next-intl.dev/docs/environments/testing)
+- [Core library](https://next-intl.dev/docs/environments/core-library)
+- [Runtime requirements](https://next-intl.dev/docs/environments/runtime-requirements)
+[Server & Client Components](https://next-intl.dev/docs/environments/server-client-components)
+[Server Actions, Metadata & Route Handlers](https://next-intl.dev/docs/environments/actions-metadata-route-handlers)
+[Error files (e.g. not-found)](https://next-intl.dev/docs/environments/error-files)
+[Testing](https://next-intl.dev/docs/environments/testing)
+[Core library](https://next-intl.dev/docs/environments/core-library)
+[Runtime requirements](https://next-intl.dev/docs/environments/runtime-requirements)
+[Workflows & integrations](https://next-intl.dev/docs/workflows)
+- [TypeScript augmentation](https://next-intl.dev/docs/workflows/typescript)
+- [Localization management with Crowdin](https://next-intl.dev/docs/workflows/localization-management)
+- [VSCode integration](https://next-intl.dev/docs/workflows/vscode-integration)
+- [Storybook](https://next-intl.dev/docs/workflows/storybook)
+- [Validating messages](https://next-intl.dev/docs/workflows/messages)
+[TypeScript augmentation](https://next-intl.dev/docs/workflows/typescript)
+[Localization management with Crowdin](https://next-intl.dev/docs/workflows/localization-management)
+[VSCode integration](https://next-intl.dev/docs/workflows/vscode-integration)
+[Storybook](https://next-intl.dev/docs/workflows/storybook)
+[Validating messages](https://next-intl.dev/docs/workflows/messages)
+[Design principles](https://next-intl.dev/docs/design-principles)
+[Presented byCrowdin logo](https://crowdin.com/?utm_source=next-intl.dev&utm_medium=referral&utm_campaign=next-intl.dev&utm_term=next-intl.dev)
+Presented by
+On This Page
+- Getting started
+- messages/en.json
+- i18n/request.ts
+- next.config.ts
+- app/layout.tsx
+- app/page.tsx
+- Next steps
+- Locale-based routing
+- Provide a locale
+- Internationalization isn’t just translating words
+Getting started
+messages/en.json
+
+```
+messages/en.json
+```
+
+i18n/request.ts
+
+```
+i18n/request.ts
+```
+
+next.config.ts
+
+```
+next.config.ts
+```
+
+app/layout.tsx
+
+```
+app/layout.tsx
+```
+
+app/page.tsx
+
+```
+app/page.tsx
+```
+
+Next steps
+Locale-based routing
+Provide a locale
+Internationalization isn’t just translating words
+[Edit this page](https://github.com/amannn/next-intl/blob/main/docs/src/pages/docs/getting-started/app-router.mdx)
+[Getting started](https://next-intl.dev/docs/getting-started)
+
+# Next.js App Router internationalization (i18n)
+
+Prefer to watch a video?
+[Set up next-intl](https://learn.next-intl.dev/chapters/03-translations/01-setup)
+
+## Getting started
+
+If you haven’t done so already, [create a Next.js app](https://nextjs.org/docs/getting-started/installation) that uses the App Router and run:
+
+```
+npm install next-intl
+```
+
+
+```
+npm install next-intl
+```
+
+Now, we’re going to create the following file structure:
+
+```
+├── messages │ ├── en.json │ └── ... ├── next.config.ts └── src ├── i18n │ └── request.ts └── app ├── layout.tsx └── page.tsx
+```
+
+
+```
+├── messages │ ├── en.json │ └── ... ├── next.config.ts └── src ├── i18n │ └── request.ts └── app ├── layout.tsx └── page.tsx
+```
+
+Let’s set up the files:
+
+### messages/en.json
+```
+messages/en.json
+```
+
+Messages represent the translations that are available per language and can be provided either locally or loaded from a remote data source.
+The simplest option is to add JSON files in your local project folder:
+
+```
+{ "HomePage": { "title": "Hello world!" } }
+```
+
+
+```
+{ "HomePage": { "title": "Hello world!" } }
+```
+
+### i18n/request.ts
+```
+i18n/request.ts
+```
+
+next-intl creates a request-scoped configuration object, which you can use to provide messages and other options based on the user’s locale to Server Components.
+
+```
+next-intl
+```
+
+
+```
+import {getRequestConfig} from 'next-intl/server'; export default getRequestConfig(async () => { // Static for now, we'll change this later const locale = 'en'; return { locale, messages: (await import(`../../messages/${locale}.json`)).default }; });
+```
+
+
+```
+import {getRequestConfig} from 'next-intl/server'; export default getRequestConfig(async () => { // Static for now, we'll change this later const locale = 'en'; return { locale, messages: (await import(`../../messages/${locale}.json`)).default }; });
+```
+
+This file is supported out-of-the-box as ./i18n/request.ts both in the src folder as well as in the project root with the extensions .ts, .tsx, .js and .jsx.
+
+```
+./i18n/request.ts
+```
+
+
+```
+src
+```
+
+
+```
+.ts
+```
+
+
+```
+.tsx
+```
+
+
+```
+.js
+```
+
+
+```
+.jsx
+```
+
+If you prefer to move this file somewhere else, you can optionally provide a path to the plugin:
+
+```
+const withNextIntl = createNextIntlPlugin( // Specify a custom path here './somewhere/else/request.ts' );
+```
+
+
+```
+const withNextIntl = createNextIntlPlugin( // Specify a custom path here './somewhere/else/request.ts' );
+```
+
+### next.config.ts
+```
+next.config.ts
+```
+
+Now, set up the plugin which links your i18n/request.ts file to next-intl.
+
+```
+i18n/request.ts
+```
+
+
+```
+next-intl
+```
+
+
+```
+import {NextConfig} from 'next'; import createNextIntlPlugin from 'next-intl/plugin'; const nextConfig: NextConfig = {}; const withNextIntl = createNextIntlPlugin(); export default withNextIntl(nextConfig);
+```
+
+
+```
+import {NextConfig} from 'next'; import createNextIntlPlugin from 'next-intl/plugin'; const nextConfig: NextConfig = {}; const withNextIntl = createNextIntlPlugin(); export default withNextIntl(nextConfig);
+```
+
+
+```
+const createNextIntlPlugin = require('next-intl/plugin'); const withNextIntl = createNextIntlPlugin(); /** @type {import('next').NextConfig} */ const nextConfig = {}; module.exports = withNextIntl(nextConfig);
+```
+
+
+```
+const createNextIntlPlugin = require('next-intl/plugin'); const withNextIntl = createNextIntlPlugin(); /** @type {import('next').NextConfig} */ const nextConfig = {}; module.exports = withNextIntl(nextConfig);
+```
+
+### app/layout.tsx
+```
+app/layout.tsx
+```
+
+To make your request configuration available to Client Components, you can wrap the children in your root layout with NextIntlClientProvider.
+
+```
+children
+```
+
+
+```
+NextIntlClientProvider
+```
+
+
+```
+import {NextIntlClientProvider} from 'next-intl'; type Props = { children: React.ReactNode; }; export default async function RootLayout({children}: Props) { return ( <html> <body> <NextIntlClientProvider>{children}</NextIntlClientProvider> </body> </html> ); }
+```
+
+
+```
+import {NextIntlClientProvider} from 'next-intl'; type Props = { children: React.ReactNode; }; export default async function RootLayout({children}: Props) { return ( <html> <body> <NextIntlClientProvider>{children}</NextIntlClientProvider> </body> </html> ); }
+```
+
+### app/page.tsx
+```
+app/page.tsx
+```
+
+Use translations in your page components or anywhere else!
+
+```
+import {useTranslations} from 'next-intl'; export default function HomePage() { const t = useTranslations('HomePage'); return <h1>{t('title')}</h1>; }
+```
+
+
+```
+import {useTranslations} from 'next-intl'; export default function HomePage() { const t = useTranslations('HomePage'); return <h1>{t('title')}</h1>; }
+```
+
+In case of async components, you can use the awaitable getTranslations function instead:
+
+```
+getTranslations
+```
+
+
+```
+import {getTranslations} from 'next-intl/server'; export default async function HomePage() { const t = await getTranslations('HomePage'); return <h1>{t('title')}</h1>; }
+```
+
+
+```
+import {getTranslations} from 'next-intl/server'; export default async function HomePage() { const t = await getTranslations('HomePage'); return <h1>{t('title')}</h1>; }
+```
+
+### Locale-based routing
+If you’d like to use unique pathnames for every language that your app supports (e.g. /en/about or example.de/über-uns), you can continue to set up a top-level [locale] segment for your app.
+
+```
+/en/about
+```
+
+
+```
+example.de/über-uns
+```
+
+
+```
+[locale]
+```
+
+[Set up locale-based routing→](https://next-intl.dev/docs/routing)
+
+### Provide a locale
+If your app doesn’t require unique pathnames per locale, you can provide a locale to next-intl based on user preferences or other application logic.
+
+```
+next-intl
+```
+
+The simplest option is to use a cookie:
+
+```
+import {cookies} from 'next/headers'; import {getRequestConfig} from 'next-intl/server'; export default getRequestConfig(async () => { const store = await cookies(); const locale = store.get('locale')?.value || 'en'; return { locale // ... }; });
+```
+
+
+```
+import {cookies} from 'next/headers'; import {getRequestConfig} from 'next-intl/server'; export default getRequestConfig(async () => { const store = await cookies(); const locale = store.get('locale')?.value || 'en'; return { locale // ... }; });
+```
+
+### Internationalization isn’t just translating words
+next-intl provides the essential foundation for internationalization in Next.js apps. It handles aspects like translations, date and number formatting, as well as internationalized routing.
+
+```
+next-intl
+```
+
+However, building for a global audience spans a wider range of topics:
+- Choosing the right architecture and routing strategy for your app
+- Integrating with backend services or a CMS
+- Leveraging generative AI for content localization
+- Streamlining your development workflow with TypeScript and IDE tooling
+- Collaborating with your team using a translation management system
+- Understanding all the pieces that contribute to a truly localized experience
+- Mastering SEO for multilingual apps to reach global audiences
+
+### Build international Next.js apps with confidence
+Learn how to build delightful, multilingual apps with Next.js—from the basics to advanced patterns, all through a real-world project.
+[Get started→](https://learn.next-intl.dev)
+[Getting started](https://next-intl.dev/docs/getting-started)
+[Pages Router](https://next-intl.dev/docs/getting-started/pages-router)
+[Docs](https://next-intl.dev/docs)
+Docs
+[Learn](https://learn.next-intl.dev)
+Learn
+[Examples](https://next-intl.dev/examples)
+Examples
+[Blog](https://next-intl.dev/blog)
+Blog
+[X](https://x.com/jamannnnnn)
+X
+[Bluesky](https://bsky.app/profile/amann.work)
+Bluesky
+[GitHub](https://github.com/amannn/next-intl)
+GitHub
+[Hosted onVercel](https://vercel.com?utm_source=next-intl&utm_campaign=oss)
+Hosted onVercel

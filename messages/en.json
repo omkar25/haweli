@@ -1,0 +1,152 @@
+{
+  "Kitchen": {
+    "title": "Haweli Restaurant — kitchen display",
+    "live": "Live",
+    "newOrders": "New orders",
+    "cooking": "Cooking",
+    "ready": "Ready",
+    "servedToday": "Served today",
+    "soundOn": "Sound on",
+    "soundOff": "Sound off",
+    "loading": "Loading kitchen...",
+    "startCooking": "Start cooking",
+    "markReady": "Mark ready",
+    "served": "Served",
+    "noOrders": "No new orders",
+    "nothingCooking": "Nothing cooking",
+    "noReady": "No orders ready",
+    "readyToServe": "Ready to serve",
+    "waiterNotified": "Customer notified",
+    "table": "Table"
+  },
+  "Dashboard": {
+    "title": "Manager Dashboard",
+    "revenue": "Today's Revenue",
+    "totalOrders": "Total Orders",
+    "activeOrders": "Active Orders",
+    "topDishes": "Top Dishes",
+    "tables": "Tables",
+    "loading": "Loading dashboard..."
+  },
+  "Chat": {
+    "title": "Chat with Haweli",
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "welcome": "Hi! I'm Haweli, your AI waiter. What can I get you today?",
+    "aiWaiterStatus": "AI Waiter • Online",
+    "newConversation": "New conversation",
+    "today": "Today",
+    "namaste": "Namaste!",
+    "confirmSelection": "Confirm Selection",
+    "orderInvoice": "Order Invoice",
+    "total": "Total",
+    "orderConfirmed": "Order confirmed! Your food is being prepared 🍳",
+    "typeMessage": "Type a message...",
+    "selectTableFirst": "Select a table above first...",
+    "seats": "Seats",
+    "occupied": "Occupied",
+    "tableLabel": "Table",
+    "welcomeMessage": "Welcome to Haweli! 🍽️ Here are the available tables. Please choose one to start your journey:"
+  },
+  "Header": {
+    "menu": "Menu",
+    "reservations": "Reservations",
+    "about": "About",
+    "contact": "Contact",
+    "orderNow": "Order Now"
+  },
+  "Hero": {
+    "welcome": "Welcome to Haweli Indian Cuisine",
+    "title": "Haweli Indian Cuisine",
+    "subtitle": "Indian culinary specialties & selected dishes",
+    "viewMenu": "View Menu",
+    "reserveTable": "Reserve a Table"
+  },
+  "About": {
+    "tag": "Steaks and Indian Cuisine",
+    "p1": "Haweli is a representative meeting place to exchange ideas, have fun and spend time together. Our aim is for you to feel comfortable and satisfied with us.",
+    "p2": "We always pay attention to warmth and friendly service in an ambiance designed with warm colors and a cozy atmosphere. Experience a culinary journey through India.",
+    "stat1Value": "100%",
+    "stat1Label": "Authentic Spices",
+    "stat2Value": "Fresh",
+    "stat2Label": "Daily Preparation"
+  },
+  "Menu": {
+    "tag": "Culinary Highlights",
+    "title": "Our Menu",
+    "currysTitle": "Currys & Rice Dishes",
+    "vegTitle": "Vegetarian & Vegan",
+    "spiceNote": "Of course, you also decide on the spiciness of your dish.",
+    "viewFull": "View Full Menu →",
+    "butterChickenDesc": "Chicken breast fillet in butter-tomato sauce, incl. daal, rice and naan",
+    "lambBiryaniDesc": "Fried rice with lamb, almonds, raisins and cashews",
+    "chickenTikkaDesc": "Chicken breast fillet with peppers and onions, incl. daal and naan",
+    "palakPaneerDesc": "Fresh spinach with homemade cheese, incl. daal and naan",
+    "vegBiryaniDesc": "Fried rice with vegetables, almonds, raisins and cashews",
+    "kadhiChawalDesc": "Kadhi with rice — a traditional North Indian dish"
+  },
+  "Services": {
+    "aiTitle": "AI Waiter — Order by Chat",
+    "aiDesc": "Our intelligent chatbot takes your order — fast, easy and personal. Choose your table, browse the menu and order directly in the chat.",
+    "delivery": "Delivery Service",
+    "outdoor": "Outdoor Area",
+    "events": "Events & Weddings",
+    "wifi": "Free WiFi",
+    "traditional": "Traditional Preparation"
+  },
+  "Reservation": {
+    "title": "Reserve Your Table",
+    "desc": "We look forward to welcoming you soon. For larger groups or special requests, please contact us directly.",
+    "phoneLabel": "By Phone",
+    "addressLabel": "Address",
+    "address": "Ehestorfer Heuweg 89, 21149 Hamburg",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "John Doe",
+    "guestsLabel": "Guests",
+    "emailLabel": "Email Address",
+    "dateLabel": "Date",
+    "timeLabel": "Time",
+    "submit": "Request Reservation",
+    "privacy": "By submitting the request you accept our privacy policy."
+  },
+  "Footer": {
+    "desc": "Authentic Indian cuisine and first-class dishes in Germany.",
+    "menu": "Menu",
+    "dashboard": "Dashboard",
+    "about": "About Us",
+    "reservations": "Reservations",
+    "newsletter": "Newsletter",
+    "emailPlaceholder": "Your Email",
+    "hours": "Mon–Sat: 11:00 – 22:00",
+    "rights": "© 2025 Haweli Indian Cuisine. All rights reserved."
+  },
+  "Nav": {
+    "dashboard": "Dashboard",
+    "kitchen": "Kitchen",
+    "order": "Order",
+    "qr": "QR Codes",
+    "chat": "Chat"
+  },
+  "Order": {
+    "loading": "Loading tables...",
+    "subtitle": "Scan, select your table, and start ordering!",
+    "selectTable": "Select your table",
+    "noTables": "All tables are currently occupied",
+    "tryLater": "Please check back in a few minutes",
+    "table": "Table",
+    "seats": "seats",
+    "available": "Available",
+    "occupied": "Currently in use",
+    "inUse": "In Use",
+    "reserved": "Reserved"
+  },
+  "Common": {
+    "language": "Language",
+    "currency": "Currency",
+    "veg": "Veg",
+    "nonVeg": "Non-Veg",
+    "available": "Available",
+    "occupied": "Occupied",
+    "reserved": "Reserved"
+  }
+}
