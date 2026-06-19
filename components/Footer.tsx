@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Send } from "lucide-react";
 import { useTranslations } from "next-intl";
-
+import Image from "next/image";
 export function Footer() {
   const t = useTranslations("Footer");
   return (
@@ -9,7 +9,16 @@ export function Footer() {
       <div className="mx-auto grid max-w-[1280px] grid-cols-1 gap-6 px-6 text-center md:grid-cols-3 md:text-left lg:px-16">
         <div className="space-y-4">
           <span className="font-heading text-[24px] font-medium leading-[1.4] text-gold">
-            HAWELI
+             <Link href="/" className="relative flex items-center">
+          <Image
+            src="/haweli_footer_logo.png"
+            alt="Haweli Indian Cuisine"
+            width={400}
+            height={160}
+            className="h-24 w-auto scale-[1.4] object-contain mix-blend-lighten"
+            priority
+          />
+        </Link>
           </span>
           <p className="text-[16px] leading-[1.6] text-on-surface-variant/80">
             {t("desc")}
