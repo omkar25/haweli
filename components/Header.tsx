@@ -27,20 +27,20 @@ export function Header() {
       className="fixed top-0 left-0 right-0 z-50 border-b border-gold/10"
       style={{ backgroundColor: "#1f2731" }}
     >
-      <div className="mx-auto flex w-full max-w-[1600px] items-center justify-between px-6 py-3 lg:px-20">
-        <Link href="/" className="relative flex items-center">
+      <div className="mx-auto flex w-full max-w-[1600px] items-center justify-between gap-3 px-4 py-3 sm:px-6 lg:px-20">
+        <Link href="/" className="relative flex shrink-0 items-center">
           <Image
             src="/logo_haweli.png"
             alt="Haweli Indian Cuisine"
             width={400}
             height={160}
-            className="h-12 w-auto scale-[1.4] object-contain mix-blend-lighten"
+            className="h-9 w-auto origin-left scale-[1.3] object-contain mix-blend-lighten sm:h-12 sm:scale-[1.4]"
             priority
           />
         </Link>
 
         {/* Right side: nav + language + order */}
-        <div className="flex items-center gap-8">
+        <div className="flex items-center gap-3 sm:gap-6 lg:gap-8">
           {/* Desktop nav */}
           <div className="hidden items-center gap-8 md:flex">
             <a
@@ -70,7 +70,7 @@ export function Header() {
           </div>
 
           {/* Language switcher */}
-          <div className="flex items-center rounded-md border border-gold/20 p-0.5">
+          <div className="flex shrink-0 items-center rounded-md border border-gold/20 p-0.5">
             {([
               { code: "de", flag: "🇩🇪" },
               { code: "en", flag: "🇬🇧" },
@@ -78,7 +78,7 @@ export function Header() {
               <button
                 key={code}
                 onClick={() => switchLocale(code)}
-                className={`flex items-center gap-1.5 rounded px-2.5 py-1 text-[11px] font-semibold uppercase tracking-widest transition-colors ${
+                className={`flex items-center gap-1 rounded px-2 py-1 text-[11px] font-semibold uppercase tracking-widest transition-colors sm:gap-1.5 sm:px-2.5 ${
                   locale === code
                     ? "bg-gold text-on-primary"
                     : "text-on-surface-variant hover:text-gold"
