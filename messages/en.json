@@ -50,6 +50,7 @@
   },
   "Header": {
     "menu": "Menu",
+    "hotel": "Hotel",
     "reservations": "Reservations",
     "about": "About",
     "contact": "Contact",

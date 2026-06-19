@@ -50,6 +50,12 @@ export function Header() {
               {t("menu")}
             </a>
             <a
+              href="#hotel"
+              className="text-[12px] font-semibold uppercase tracking-[0.15em] text-on-surface-variant transition-colors hover:text-gold"
+            >
+              {t("hotel")}
+            </a>
+            <a
               href="#reservations"
               className="text-[12px] font-semibold uppercase tracking-[0.15em] text-on-surface-variant transition-colors hover:text-gold"
             >
